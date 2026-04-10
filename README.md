@@ -1,4 +1,4 @@
-# Hi, I'm **Karina Silva Vicente**
+## Hi, I'm **Karina Silva Vicente**
 
 💻 **Full-Stack Developer in progress**, with a strong focus on Back-End development. <br>
 🎓 Currently pursuing a degree in Systems Analysis and Development (SENAC) <br>
