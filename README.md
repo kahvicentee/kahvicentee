@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Karina Silva Vicente
 
-<!--
-**kahvicentee/kahvicentee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer in progress, with a strong focus on Back-End development.
+🎓 Currently studying Systems Analysis and Development (SENAC)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node,mysql,github)
+
+---
+
+# 📫 Contact
+
+📧 EMAIL: karinavicente.dev@gmail.com
+💼 LINKEDIN: https://linkedin.com/in/kahsvicente/
