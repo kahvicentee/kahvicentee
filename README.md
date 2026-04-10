@@ -1,7 +1,7 @@
-# Hi, I'm Karina Silva Vicente
+# Hi, I'm **Karina Silva Vicente**
 
-💻 Full-Stack Developer in progress, with a strong focus on Back-End development.
-🎓 Currently studying Systems Analysis and Development (SENAC)
+💻 **Full-Stack Developer in progress**, with a strong focus on Back-End development. <br>
+🎓 Currently studying Systems Analysis and Development (SENAC)  
 
 ---
 
@@ -13,5 +13,5 @@
 
 ## 📫 Contact
 
-📧 EMAIL: karinavicente.dev@gmail.com
-💼 LINKEDIN: https://linkedin.com/in/kahsvicente/
+📧 EMAIL: karinavicente.dev@gmail.com <br>
+💼 LINKEDIN: https://linkedin.com/in/karinasvicente
