@@ -5,6 +5,6 @@
 
 📌 **Portfolio:** https://kahvicentee.github.io/portfolio/ <br>
 📧 **Email:** karinavicente.dev@gmail.com <br>
-💼 **LinkedIn:** https://linkedin.com/in/karinasvicente
+💼 **LinkedIn:** https://linkedin.com/in/karinasvicente <br>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,mysql,github)
